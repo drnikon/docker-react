@@ -1,6 +1,4 @@
 sudo: required
-env:
-  - CI=true
 services:
   - docker
 
